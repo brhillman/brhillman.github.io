@@ -6,19 +6,19 @@ permalink: /cv/
 
 My updated CV is available on my github repository [here](https://github.com/brhillman/cv/blob/master/cv.pdf)
 
-# Benjamin R. Hillman
+## Benjamin R. Hillman
 PO Box 5800  
 Mail Stop 0734  
 Albuquerque, NM 87185-0734  
 [bhillma@sandia.gov](mailto:bhillma@sandia.gov) // (425) 218-8086  
 
-## Education
+### Education
 Ph.D., Atmospheric Sciences, University of Washington, Seattle, WA, June 2016  
 M.S., Atmospheric Sciences, University of Washington, Seattle, WA, 2012  
 B.S., Physics and Mathematics *Cum Laude*, Western Washington University, Bellingham, WA, 2008  
 A.S., Shoreline Community College, Seattle, WA, 2005  
 
-## Research Experience
+### Research Experience
 Postdoctoral Appointee, Department of Atmospheric Science, Sandia National Laboratories, Albuquerque, NM, Summer 2016–present
   - Improving understanding of Arctic cloud processes and model biases through high resolution atmo- spheric modeling and observations.
   - Development and analysis of cutting-edge techniques for improved simulation in global climate models, including the use and development of super-parameterization and regionally-fined meshes.  
@@ -31,7 +31,7 @@ Graduate Research Associate, Department of Atmospheric Sciences, University of W
 Research Associate, Department of Chemistry, Western Washington University, Bellingham, WA, Summer 2008
   - Modeling growth of thin semiconductor films using a deposition, diffusion, aggregation model.
   
-## Technical Skills
+### Technical Skills
 
   - Development and analysis of a range of global climate models, including the GFDL global atmosphere model (AM2), the NCAR Community Earth System Model (CESM), the Super-Parameterized Com- munity Atmosphere Model (SP-CAM), and the DOE Accelerated Climate Model for Energy (ACME)
   - Expertise in the use of satellite instrument simulators for model evaluation
@@ -41,20 +41,20 @@ the NCAR Atmosphere Model Working Group (AMWG) diagnostics package
   - Analysis of geospatial datasets using the netCDF operators (NCO)
   - Using git and github for software version control and project management • Working in high-performance computing environments
 
-## Teaching Experience
+### Teaching Experience
 Teaching Assistant, Atmospheric Radiative Transfer (ATM S 341), University of Washington, Seattle, WA, Spring 2014  
 Teaching Assistant, Introduction to Weather (ATM S 101), University of Washington, Seattle, WA, Winter 2010  
 Teaching Assistant, Department of Physics and Astronomy, Western Washington University, Bellingham, WA, Winter 2006–Spring 2008  
 
-## Field Experience
+### Field Experience
 Storm Peak Lab Cloud Property Validation Experiment (STORMVEx) Steamboat Springs, CO, Winter 2011
 
-## Honors
+### Honors
 2011 NCAR Advanced Study Program Graduate Visitor  
 2008 Dr. James and Joann Albers memorial scholarship  
 2007 Dr. James and Joann Albers memorial scholarship
 
-## Publications
+### Publications
 Hillman, B. R., R. T. Marchand, T. P. Ackerman, G. G. Mace, and S. Benson (2017), Assessing the accuracy of MISR and MISR-simulated cloud top heights using CloudSat- and CALIPSO-retrieved hydrometeor profiles, J. Geophys. Res. Atmos., 122, doi:10.1002/2016JD025510.
 
 Hillman, B. R. (2016), Reducing errors in simulated satellite views of clouds from large-scale models. Ph.D. dissertation, University of Washington.
@@ -63,7 +63,7 @@ Hillman, B. R., (2012), Evaluating clouds in global climate models using instrum
 
 Kay, J. E., B. R. Hillman, S. A. Klein, Y. Zhang, B. Medeiros, R. Pincus, A. Gettelman, B. Eaton, J. Boyle, R. Marchand, and T. P. Ackerman (2012), Exposing global cloud biases in the Community Atmosphere Model (CAM) using satellite observations and their corresponding instrument simulators, J. Climate, 25, 5190–5207, doi:10.1175/JCLI-D-11-00469.1.
 
-## Selected Presentations
+### Selected Presentations
 Hillman, B. R., R. Marchand, T. P. Ackerman, 2014: Comparison of MISR and MISR-simulated cloud top heights using CloudSat and CALIPSO profiles. MISR Science Team Meeting, Pasadena, CA.
 
 Hillman, B. R., R. Marchand, T. P. Ackerman, A. Bodas-Salcedo, J. Cole, J.-C. Golaz, J. E. Kay, 2012: Comparing cloud biases in CMIP5: insights using MISR and ISCCP American Geophysical Union Fall Meeting, San Francisco, CA.
