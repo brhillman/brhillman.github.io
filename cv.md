@@ -20,7 +20,7 @@ A.S., Shoreline Community College, Seattle, WA, 2005
 
 ### Research Experience
 Postdoctoral Appointee, Department of Atmospheric Science, Sandia National Laboratories, Albuquerque, NM, Summer 2016–present
-  - Improving understanding of Arctic cloud processes and model biases through high resolution atmo- spheric modeling and observations.
+  - Improving understanding of Arctic cloud processes and model biases through high resolution atmospheric modeling and observations.
   - Development and analysis of cutting-edge techniques for improved simulation in global climate models, including the use and development of super-parameterization and regionally-fined meshes.  
 
 Graduate Research Associate, Department of Atmospheric Sciences, University of Washington, Seattle, WA, Fall 2008–Spring 2016
