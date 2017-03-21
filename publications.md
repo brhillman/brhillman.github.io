@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Recent publications
 
-Hillman, B. R., R. T. Marchand, T. P. Ackerman, G. G. Mace, and S. Benson (2017), Assessing the accuracy of MISR and MISR-simulated cloud top heights using CloudSat- and CALIPSO-retrieved hydrometeor profiles, J. Geophys. Res. Atmos., 122, [doi:10.1002/2016JD025510](http://onlinelibrary.wiley.com/doi/10.1002/2016JD025510/full). [pdf](hillman_et_al_2017.pdf)
+Hillman, B. R., R. T. Marchand, T. P. Ackerman, G. G. Mace, and S. Benson (2017), Assessing the accuracy of MISR and MISR-simulated cloud top heights using CloudSat- and CALIPSO-retrieved hydrometeor profiles, J. Geophys. Res. Atmos., 122, [doi:10.1002/2016JD025510](http://onlinelibrary.wiley.com/doi/10.1002/2016JD025510/full). [pdf](/papers/hillman_et_al_2017.pdf)
 
 Hillman, B. R. (2016), Reducing errors in simulated satellite views of clouds from large-scale models. Ph.D. dissertation, University of Washington.
 
