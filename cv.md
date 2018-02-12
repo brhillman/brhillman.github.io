@@ -19,7 +19,11 @@ B.S., Physics and Mathematics *Cum Laude*, Western Washington University, Bellin
 A.S., Shoreline Community College, Seattle, WA, 2005  
 
 ### Research Experience
-Postdoctoral Appointee, Department of Atmospheric Science, Sandia National Laboratories, Albuquerque, NM, Summer 2016–present
+Research Scientist, Department of Atmospheric Science, Sandia National Laboratories, Albuquerque, NM, Spring 2017-present
+  - Improving understanding of Arctic cloud processes and model biases through high resolution atmospheric modeling and observations.
+  - Development and analysis of cutting-edge techniques for improved simulation in global climate models, including the use and development of super-parameterization and regionally-fined meshes.
+
+Postdoctoral Appointee, Department of Atmospheric Science, Sandia National Laboratories, Albuquerque, NM, Summer 2016–Spring 2017
   - Improving understanding of Arctic cloud processes and model biases through high resolution atmospheric modeling and observations.
   - Development and analysis of cutting-edge techniques for improved simulation in global climate models, including the use and development of super-parameterization and regionally-fined meshes.  
 
@@ -55,6 +59,11 @@ Storm Peak Lab Cloud Property Validation Experiment (STORMVEx) Steamboat Springs
 2007 Dr. James and Joann Albers memorial scholarship
 
 ### Publications
+Hillman, B. R., E. L. Roesler (2018), Improved Arctic low-level cloud amount in Super-parameterized global model simulations (in preparation).
+
+Hillman, B. R., R. T. Marchand, T. P. Ackerman (2018), Sensitivities of simulated satellite views of clouds to
+subgrid-scale overlap and condensate heterogeneity (in review).
+
 Hillman, B. R., R. T. Marchand, T. P. Ackerman, G. G. Mace, and S. Benson (2017), Assessing the accuracy of MISR and MISR-simulated cloud top heights using CloudSat- and CALIPSO-retrieved hydrometeor profiles, J. Geophys. Res. Atmos., 122, doi:10.1002/2016JD025510.
 
 Hillman, B. R. (2016), Reducing errors in simulated satellite views of clouds from large-scale models. Ph.D. dissertation, University of Washington.
