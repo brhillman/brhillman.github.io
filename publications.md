@@ -10,7 +10,7 @@ Hillman, B. R., R. T. Marchand, and T. P. Ackerman (2018), Sensitivities of simu
 
 Hillman, B. R., R. T. Marchand, T. P. Ackerman, G. G. Mace, and S. Benson (2017), Assessing the accuracy of MISR and MISR-simulated cloud top heights using CloudSat- and CALIPSO-retrieved hydrometeor profiles, J. Geophys. Res. Atmos., 122, [doi:10.1002/2016JD025510](http://onlinelibrary.wiley.com/doi/10.1002/2016JD025510/full).
 
-Hillman, B. R. (2016), Reducing errors in simulated satellite views of clouds from large-scale models. Ph.D. dissertation, University of Washington.
+Hillman, B. R. (2016), Reducing errors in simulated satellite views of clouds from large-scale models. Ph.D. dissertation, University of Washington [uri:http://hdl.handle.net/1773/36492](http://hdl.handle.net/1773/36492).
 
 Hillman, B. R., (2012), Evaluating clouds in global climate models using instrument simulators. M.S. thesis, University of Washington.
 
