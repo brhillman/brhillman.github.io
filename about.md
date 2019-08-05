@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am an atmospheric scientist currently working as a postdoctoral appointee at Sandia National Laboratories. My research interests involve large-scale atmospheric modeling, clouds and their interaction with the climate system, and remote sensing of cloud properties. A lot of my work has been focused on the use of satellite instrument simulators to account for limitations in remote sensing retrievals of cloud properties in order to enable more robust evaluation of large-scale models. More recently, my attention has turned to the Arctic and understanding processes important to the formation of mixed-phase clouds, how these clouds affect the radiative balance and the climate system, and how we can improve the simulation of the statistics of these clouds in large-scale (global) models.
+I am an atmospheric scientist working at Sandia National Laboratories in Albuquerque, NM. My research interests include large-scale atmospheric modeling, clouds and cloud radiative effects, and remote sensing of cloud properties. Previous work has been focused on the use of satellite instrument simulators to account for limitations in remote sensing retrievals of cloud properties in order to enable more robust evaluation of large-scale models. More recently I have gotten involved in model development, and currently work on two Department of Energy efforts to push large-scale modeling to cloud resolving scales using the Energy Exascale Earth System Model (E3SM).
 
-Outside of science, I enjoy playing hockey, competitive olympic-style weightlifting, and all things outdoors.
+Outside of science, I enjoy playing hockey and all things outdoors.
