@@ -12,7 +12,7 @@ Wang, J., Fan, J., Feng, Z., Zhang, K., Roesler, E., Hillman, B., et al. (2021).
 
 Norman. M. R., D. Bader, C. Eldred, W. M. Hannah, B. Hillman, C. R. Jones, J. M. Lee, L. R. Leung, I. Lyngaas, K. G. Pressel, S. Sreepathi, M. A. Taylor, and X. Yuan, 2020: Unprecedented Cloud Resolution in a GPU-Enabled Full-Physics Atmospheric Climate Simulation on OLCF’s Summit Supercomputer, Int. J. of High Perf. Comp. App., doi:10.1177/10943420211027539.
 
-Hannah, W. M., C. R. Jones, B. R. Hillman, M. R. Norman, M. A. Taylor, D. A. Bader, L. R. Leung, M. S. Pritchard, M. D. Branson, G. Lin, K. G. Pressel, and J. M. Lee, 2020: Initial Results from the Super-Parameterized E3SM. J. Adv. Model. Earth Sys., 12, e2019MS001863.
+Hannah, W. M., Jones, C. R., Hillman, B. R., Norman, M. R., Bader, D. C., Taylor, M. A., et al. (2020). Initial results from the super-parameterized E3SM. Journal of Advances in Modeling Earth Systems. 12, e2019MS001863. https://doi.org/10.1029/2019MS001863
 
 Hillman, B. R., R. T. Marchand, and T. P. Ackerman (2018), Sensitivities of simulated satellite views of clouds to subgrid-scale overlap and condensate heterogeneity, J. Geophys. Res. Atmos. [https://doi.org/10.1029/2017JD027680](https://doi.org/10.1029/2017JD027680).
 
