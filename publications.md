@@ -6,7 +6,11 @@ permalink: /publications/
 
 # Recent publications
 
-Caldwell, P. M., Terai, C. R., Hillman, B. R., Keen, N. D., Bogenschutz, P. A., Lin, W., Beydoun, H., Taylor, M., Bertagna, L., Bradley, A., Clevenger, T. C., Donahue, A. S., Eldred, C., Foucar, J., Golaz, C., Guba, O., Jacob, R., Johnson, J., Krishna, J., Liu, W., Pressel, K., Salinger, A. G., Singh, B., Steyer, A., Ullrich, P., Wu, D., Yuan, X., Shpund, J., Ma, H.-Y., Zender, C. S. (2021). Convection-Permitting Simulations with the E3SM Global Atmosphere Model. Submitted to JAMES. https://doi.org/10.1002/essoar.10506530.1
+Caldwell, P. M., Terai, C. R., Hillman, B., Keen, N. D., Bogenschutz, P., Lin, W., et al. (2021). Convection-permitting simulations with the E3SM global atmosphere model. Journal of Advances in Modeling Earth Systems, 13, e2021MS002544. https://doi.org/10.1029/2021MS002544.
+
+Wang, J., Fan, J., Feng, Z., Zhang, K., Roesler, E., Hillman, B., et al. (2021). Impact of a new cloud microphysics parameterization on the simulations of mesoscale convective systems in E3SM. Journal of Advances in Modeling Earth Systems, 13, e2021MS002628. https://doi.org/10.1029/2021MS002628
+
+Norman. M. R., D. Bader, C. Eldred, W. M. Hannah, B. Hillman, C. R. Jones, J. M. Lee, L. R. Leung, I. Lyngaas, K. G. Pressel, S. Sreepathi, M. A. Taylor, and X. Yuan, 2020: Unprecedented Cloud Resolution in a GPU-Enabled Full-Physics Atmospheric Climate Simulation on OLCF’s Summit Supercomputer, Int. J. of High Perf. Comp. App., doi:10.1177/10943420211027539.
 
 Hillman, B. R., R. T. Marchand, and T. P. Ackerman (2018), Sensitivities of simulated satellite views of clouds to subgrid-scale overlap and condensate heterogeneity, J. Geophys. Res. Atmos. [https://doi.org/10.1029/2017JD027680](https://doi.org/10.1029/2017JD027680).
 
