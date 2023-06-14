@@ -34,7 +34,12 @@ Graduate Research Associate, Department of Atmospheric Sciences, University of W
 
 Research Associate, Department of Chemistry, Western Washington University, Bellingham, WA, Summer 2008
   - Modeling growth of thin semiconductor films using a deposition, diffusion, aggregation model.
-  
+
+
+### Research interests
+Dr. Hillman's research interests include the development, evaluation, and application of global atmosphere models, especially the representation of clouds and their interaction with radiant energy transfer in those models. Dr. Hillman is heavily involved in the development of the Department of Energy’s Energy Exascale Earth System Model (E3SM), including efforts to push the atmosphere component of the model to very high (cloud resolving) resolutions and preparing the model for next generation supercomputing architectures. Dr. Hillman obtained his Ph.D. from the University of Washington, where he worked under Dr. Thomas Ackerman and Dr. Roger Marchand on methods for evaluating clouds in global climate models using satellite instrument simulators to improve comparisons between models and satellite retrievals.
+
+
 ### Technical Skills
 
   - Development and analysis of a range of global climate models, including the GFDL global atmosphere model (AM2), the NCAR Community Earth System Model (CESM), the Super-Parameterized Com- munity Atmosphere Model (SP-CAM), and the DOE Accelerated Climate Model for Energy (ACME)
