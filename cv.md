@@ -65,24 +65,31 @@ Storm Peak Lab Cloud Property Validation Experiment (STORMVEx) Steamboat Springs
 
 ### Publications
 
-Caldwell, P. M., Terai, C. R., Hillman, B., Keen, N. D., Bogenschutz, P., Lin, W., et al. (2021). Convection-permitting simulations with the E3SM global atmosphere model. Journal of Advances in Modeling Earth Systems, 13, e2021MS002544. https://doi.org/10.1029/2021MS002544.
 
-Wang, J., Fan, J., Feng, Z., Zhang, K., Roesler, E., Hillman, B., et al. (2021). Impact of a new cloud microphysics parameterization on the simulations of mesoscale convective systems in E3SM. Journal of Advances in Modeling Earth Systems, 13, e2021MS002628. https://doi.org/10.1029/2021MS002628
+Tang, Q., Golaz, J.-C., Van Roekel, L. P., Taylor, M. A., Lin, W., **Hillman, B. R.**, Ullrich, P. A., Bradley, A. M., Guba, O., Wolfe, J. D., Zhou, T., Zhang, K., Zheng, X., Zhang, Y., Zhang, M., Wu, M., Wang, H., Tao, C., Singh, B., Rhoades, A. M., Qin, Y., Li, H.-Y., Feng, Y., Zhang, Y., Zhang, C., Zender, C. S., Xie, S., Roesler, E. L., Roberts, A. F., Mametjanov, A., Maltrud, M. E., Keen, N. D., Jacob, R. L., Jablonowski, C., Hughes, O. K., Forsyth, R. M., Di Vittorio, A. V., Caldwell, P. M., Bisht, G., McCoy, R. B., Leung, L. R., and Bader, D. C.: The fully coupled regionally refined model of E3SM version 2: overview of the atmosphere, land, and river results, Geosci. Model Dev., 16, 3953–3995, https://doi.org/10.5194/gmd-16-3953-2023, 2023.
 
-Norman. M. R., D. Bader, C. Eldred, W. M. Hannah, B. Hillman, C. R. Jones, J. M. Lee, L. R. Leung, I. Lyngaas, K. G. Pressel, S. Sreepathi, M. A. Taylor, and X. Yuan, 2020: Unprecedented Cloud Resolution in a GPU-Enabled Full-Physics Atmospheric Climate Simulation on OLCF’s Summit Supercomputer, Int. J. of High Perf. Comp. App., doi:10.1177/10943420211027539.
+Zhang, X., Tang, H., Zhang, J., Walsh, J. E., Roesler, E. L., **Hillman, B.**, Ballinger, J., Weijer, W. Arctic cyclones have become more intense and longer-lived over the past seven decades. Commun Earth Environ 4, 348 (2023). https://doi.org/10.1038/s43247-023-01003-0
 
-Hannah, W. M., Jones, C. R., Hillman, B. R., Norman, M. R., Bader, D. C., Taylor, M. A., et al. (2020). Initial results from the super-parameterized E3SM. Journal of Advances in Modeling Earth Systems. 12, e2019MS001863. https://doi.org/10.1029/2019MS001863.
+Zhang, J., Zhang, X., Walsh, J. E., Roesler, E., **Hillman, B.** (2023). Concurrence of blowing snow and polynya enhances arctic surface–atmosphere interaction: a modeling study with an extreme wind event in 2018. Environ. Res.: Climate 2 011004. doi:10.1088/2752-5295/acb9b1
 
-Hillman, B. R., R. T. Marchand, T. P. Ackerman (2018), Sensitivities of simulated satellite views of clouds to
+Caldwell, P. M., Terai, C. R., **Hillman, B.**, Keen, N. D., Bogenschutz, P., Lin, W., et al. (2021). Convection-permitting simulations with the E3SM global atmosphere model. Journal of Advances in Modeling Earth Systems, 13, e2021MS002544. https://doi.org/10.1029/2021MS002544.
+
+Wang, J., Fan, J., Feng, Z., Zhang, K., Roesler, E., **Hillman, B.**, et al. (2021). Impact of a new cloud microphysics parameterization on the simulations of mesoscale convective systems in E3SM. Journal of Advances in Modeling Earth Systems, 13, e2021MS002628. https://doi.org/10.1029/2021MS002628
+
+Norman. M. R., D. Bader, C. Eldred, W. M. Hannah, **B. Hillman**, C. R. Jones, J. M. Lee, L. R. Leung, I. Lyngaas, K. G. Pressel, S. Sreepathi, M. A. Taylor, and X. Yuan, 2020: Unprecedented Cloud Resolution in a GPU-Enabled Full-Physics Atmospheric Climate Simulation on OLCF’s Summit Supercomputer, Int. J. of High Perf. Comp. App., doi:10.1177/10943420211027539.
+
+Hannah, W. M., Jones, C. R., **Hillman, B. R.**, Norman, M. R., Bader, D. C., Taylor, M. A., et al. (2020). Initial results from the super-parameterized E3SM. Journal of Advances in Modeling Earth Systems. 12, e2019MS001863. https://doi.org/10.1029/2019MS001863.
+
+**Hillman, B. R.**, R. T. Marchand, T. P. Ackerman (2018), Sensitivities of simulated satellite views of clouds to
 subgrid-scale overlap and condensate heterogeneity. Journal of Geophysical Research: Atmospheres, 123. [https://doi.org/10.1029/2017JD027680](https://doi.org/10.1029/2017JD027680).
 
-Hillman, B. R., R. T. Marchand, T. P. Ackerman, G. G. Mace, and S. Benson (2017), Assessing the accuracy of MISR and MISR-simulated cloud top heights using CloudSat- and CALIPSO-retrieved hydrometeor profiles, J. Geophys. Res. Atmos., 122, doi:10.1002/2016JD025510.
+**Hillman, B. R.**, R. T. Marchand, T. P. Ackerman, G. G. Mace, and S. Benson (2017), Assessing the accuracy of MISR and MISR-simulated cloud top heights using CloudSat- and CALIPSO-retrieved hydrometeor profiles, J. Geophys. Res. Atmos., 122, doi:10.1002/2016JD025510.
 
-Hillman, B. R. (2016), Reducing errors in simulated satellite views of clouds from large-scale models. Ph.D. dissertation, University of Washington.
+**Hillman, B. R.** (2016), Reducing errors in simulated satellite views of clouds from large-scale models. Ph.D. dissertation, University of Washington.
 
-Hillman, B. R., (2012), Evaluating clouds in global climate models using instrument simulators. M.S. thesis, University of Washington.
+**Hillman, B. R.**, (2012), Evaluating clouds in global climate models using instrument simulators. M.S. thesis, University of Washington.
 
-Kay, J. E., B. R. Hillman, S. A. Klein, Y. Zhang, B. Medeiros, R. Pincus, A. Gettelman, B. Eaton, J. Boyle, R. Marchand, and T. P. Ackerman (2012), Exposing global cloud biases in the Community Atmosphere Model (CAM) using satellite observations and their corresponding instrument simulators, J. Climate, 25, 5190–5207, doi:10.1175/JCLI-D-11-00469.1.
+Kay, J. E., **B. R. Hillman**, S. A. Klein, Y. Zhang, B. Medeiros, R. Pincus, A. Gettelman, B. Eaton, J. Boyle, R. Marchand, and T. P. Ackerman (2012), Exposing global cloud biases in the Community Atmosphere Model (CAM) using satellite observations and their corresponding instrument simulators, J. Climate, 25, 5190–5207, doi:10.1175/JCLI-D-11-00469.1.
 
 ### Selected Presentations
 Hillman, B. R., R. Marchand, T. P. Ackerman, 2014: Comparison of MISR and MISR-simulated cloud top heights using CloudSat and CALIPSO profiles. MISR Science Team Meeting, Pasadena, CA.
