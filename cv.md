@@ -64,7 +64,7 @@ Storm Peak Lab Cloud Property Validation Experiment (STORMVEx) Steamboat Springs
 2007 Dr. James and Joann Albers memorial scholarship
 
 ### Publications
-
+Mark Taylor, Peter M. Caldwell, Luca Bertagna, Conrad Clevenger, Aaron Donahue, James Foucar, Oksana Guba, **Benjamin Hillman**, Noel Keen, Jayesh Krishna, Matthew Norman, Sarat Sreepathi, Christopher Terai, James B. White, Andrew G Salinger, Renata B McCoy, Lai-yung Ruby Leung, David C. Bader, and Danqing Wu. 2023. The Simple Cloud-Resolving E3SM Atmosphere Model Running on the Frontier Exascale System. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '23). Association for Computing Machinery, New York, NY, USA, Article 7, 1–11. https://doi.org/10.1145/3581784.3627044
 
 Tang, Q., Golaz, J.-C., Van Roekel, L. P., Taylor, M. A., Lin, W., **Hillman, B. R.**, Ullrich, P. A., Bradley, A. M., Guba, O., Wolfe, J. D., Zhou, T., Zhang, K., Zheng, X., Zhang, Y., Zhang, M., Wu, M., Wang, H., Tao, C., Singh, B., Rhoades, A. M., Qin, Y., Li, H.-Y., Feng, Y., Zhang, Y., Zhang, C., Zender, C. S., Xie, S., Roesler, E. L., Roberts, A. F., Mametjanov, A., Maltrud, M. E., Keen, N. D., Jacob, R. L., Jablonowski, C., Hughes, O. K., Forsyth, R. M., Di Vittorio, A. V., Caldwell, P. M., Bisht, G., McCoy, R. B., Leung, L. R., and Bader, D. C.: The fully coupled regionally refined model of E3SM version 2: overview of the atmosphere, land, and river results, Geosci. Model Dev., 16, 3953–3995, https://doi.org/10.5194/gmd-16-3953-2023, 2023.
 
