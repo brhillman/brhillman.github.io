@@ -19,8 +19,8 @@ B.S., Physics and Mathematics *Cum Laude*, Western Washington University, Bellin
 A.S., Shoreline Community College, Seattle, WA, 2005  
 
 ### Research Experience
-Research Scientist, Department of Atmospheric Science, Sandia National Laboratories, Albuquerque, NM, Spring 2017-present
-  - Improving understanding of Arctic cloud processes and model biases through high resolution atmospheric modeling and observations.
+Technical Staff, Department of Atmospheric Science / Climate Systems, Sandia National Laboratories, Albuquerque, NM, Spring 2017-present
+  - Improving understanding of cloud processes and model biases through high resolution atmospheric modeling and observations.
   - Development and analysis of cutting-edge techniques for improved simulation in global climate models, including the use and development of super-parameterization and regionally-fined meshes.
 
 Postdoctoral Appointee, Department of Atmospheric Science, Sandia National Laboratories, Albuquerque, NM, Summer 2016–Spring 2017
